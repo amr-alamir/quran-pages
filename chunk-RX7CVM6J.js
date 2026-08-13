@@ -1,0 +1,1 @@
+import{U as e}from"./chunk-ZKC4QB2S.js";var o=class extends Error{constructor(t,a){super(a);this.code=t;this.name="PageAssetsDownloadError"}},s=new e("PAGE_ASSETS");var P=new e("PLATFORM_CAPABILITIES");export{o as a,s as b,P as c};

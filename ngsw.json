@@ -1,0 +1,141 @@
+{
+  "configVersion": 1,
+  "timestamp": 1786656448503,
+  "appData": {
+    "version": "0.2.11"
+  },
+  "index": "/quran-pages/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/quran-pages/chunk-2VNVJ46M.js",
+        "/quran-pages/chunk-4J4DY3M6.js",
+        "/quran-pages/chunk-C62HCPTY.js",
+        "/quran-pages/chunk-DNHPDHWQ.js",
+        "/quran-pages/chunk-H5IHLT4X.js",
+        "/quran-pages/chunk-K43KST52.js",
+        "/quran-pages/chunk-MZ7S7V6J.js",
+        "/quran-pages/chunk-QSYH4EQF.js",
+        "/quran-pages/chunk-RX7CVM6J.js",
+        "/quran-pages/chunk-SA3WYTPH.js",
+        "/quran-pages/chunk-ZKC4QB2S.js",
+        "/quran-pages/data/quran-imlaei-simple-clean.json",
+        "/quran-pages/data/quran-uthmani.json",
+        "/quran-pages/favicon.ico",
+        "/quran-pages/icons/arrow_back.svg",
+        "/quran-pages/icons/arrow_forward.svg",
+        "/quran-pages/icons/bookmark.svg",
+        "/quran-pages/icons/dark_mode.svg",
+        "/quran-pages/icons/format_list_bulleted.svg",
+        "/quran-pages/icons/fullscreen.svg",
+        "/quran-pages/icons/fullscreen_exit.svg",
+        "/quran-pages/icons/icon-192.png",
+        "/quran-pages/icons/icon-512.png",
+        "/quran-pages/icons/light_mode.svg",
+        "/quran-pages/icons/menu_book.svg",
+        "/quran-pages/icons/search.svg",
+        "/quran-pages/icons/settings.svg",
+        "/quran-pages/index.html",
+        "/quran-pages/main-F7I7ERVN.js",
+        "/quran-pages/manifest.webmanifest",
+        "/quran-pages/media/ibm-plex-sans-arabic-arabic-400-normal-HDFIX7LY.woff2",
+        "/quran-pages/media/ibm-plex-sans-arabic-arabic-500-normal-AAIACC75.woff2",
+        "/quran-pages/media/ibm-plex-sans-arabic-arabic-600-normal-LS4CIPTS.woff2",
+        "/quran-pages/media/ibm-plex-sans-arabic-latin-400-normal-W2AG3YJR.woff2",
+        "/quran-pages/media/ibm-plex-sans-arabic-latin-500-normal-5LQDONK7.woff2",
+        "/quran-pages/media/ibm-plex-sans-arabic-latin-600-normal-XUUOQ5DA.woff2",
+        "/quran-pages/styles-7545KREH.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [
+    {
+      "name": "quran-data",
+      "patterns": [
+        "\\/(?:.+\\/)?data\\/.*"
+      ],
+      "strategy": "performance",
+      "maxSize": 100,
+      "maxAge": 31536000000,
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "version": 1
+    }
+  ],
+  "hashTable": {
+    "/quran-pages/chunk-2VNVJ46M.js": "c536e317ad068a0dac5c60375041948dfb73e6d9",
+    "/quran-pages/chunk-4J4DY3M6.js": "de2b22b5e38b76302ce56f626624664d638c6294",
+    "/quran-pages/chunk-C62HCPTY.js": "c03481246f220bd78b9fc3b8c70ad97b936b0a3b",
+    "/quran-pages/chunk-DNHPDHWQ.js": "712965b3c138250f727b9fffdb9d32b3cbd25fb7",
+    "/quran-pages/chunk-H5IHLT4X.js": "1664d9afe83f6f4b588ed17250407709998c35b4",
+    "/quran-pages/chunk-K43KST52.js": "908f3e8f537b334ab0ccc8f8f72a03b8d7a67de0",
+    "/quran-pages/chunk-MZ7S7V6J.js": "0b85063f6b2468623546f8f8abc5dd6e1fc47cd4",
+    "/quran-pages/chunk-QSYH4EQF.js": "35e3d3babdcb595ea9ca7fefc9c42793b31c9283",
+    "/quran-pages/chunk-RX7CVM6J.js": "33dad703c6497f8d1fa5f8a0f877b413c3533754",
+    "/quran-pages/chunk-SA3WYTPH.js": "6c03190a19851c7b8901ab69f81f786f9fa760c1",
+    "/quran-pages/chunk-ZKC4QB2S.js": "4899c04faea62410ee9209356c06f93c686c366d",
+    "/quran-pages/data/quran-imlaei-simple-clean.json": "bbb8c772c4da36402f22cb3465b87ccb05db2445",
+    "/quran-pages/data/quran-uthmani.json": "4fe1ca26fbabaab545a6b58a844c61f7d1e11045",
+    "/quran-pages/favicon.ico": "9f7651f65d81ba9622cc1b4a503b53878371d13b",
+    "/quran-pages/icons/arrow_back.svg": "8462d31ddafda59eda8f70e5def7c11797dc2124",
+    "/quran-pages/icons/arrow_forward.svg": "a5a9fe8f49041bf160da6c556ae03c399ad4b7b5",
+    "/quran-pages/icons/bookmark.svg": "15b1b8e1e4bd54e091d93b1fe1646a37d4faddbb",
+    "/quran-pages/icons/dark_mode.svg": "dcf910ab513c5d16b75e9f5b45ab049460f1d3e1",
+    "/quran-pages/icons/format_list_bulleted.svg": "d75a5eb204e393b1c310ed2e8d54d47843638ed2",
+    "/quran-pages/icons/fullscreen.svg": "571a1aedf30b7f2d4098ed8e6e75ecb93ef63339",
+    "/quran-pages/icons/fullscreen_exit.svg": "b42a1b2dbe21cc4bff0e8defd9a744338af26737",
+    "/quran-pages/icons/icon-192.png": "9f7651f65d81ba9622cc1b4a503b53878371d13b",
+    "/quran-pages/icons/icon-512.png": "9f7651f65d81ba9622cc1b4a503b53878371d13b",
+    "/quran-pages/icons/light_mode.svg": "8d82cb75e17bf2deff97393ec8c90cab1128a7e4",
+    "/quran-pages/icons/menu_book.svg": "21c5dde7a79ca7b155fd3158e5c6e10c3ec27cb0",
+    "/quran-pages/icons/search.svg": "04960bbc6ada3eb89686406ca4176dff233cfd49",
+    "/quran-pages/icons/settings.svg": "c769d5f69c13330eaf581de3dede625b10d6f501",
+    "/quran-pages/index.html": "ccaabd4dfff9702e5f12c384d791d4281f330a1c",
+    "/quran-pages/main-F7I7ERVN.js": "1e8e4ab365ed8e7dc76d4bdd7b43fb35463bc39d",
+    "/quran-pages/manifest.webmanifest": "cc5580f85f09bdfbe799487798ac2e5151cf70ce",
+    "/quran-pages/media/ibm-plex-sans-arabic-arabic-400-normal-HDFIX7LY.woff2": "a9cefdcae54676211fe42927574e4c013a1af538",
+    "/quran-pages/media/ibm-plex-sans-arabic-arabic-500-normal-AAIACC75.woff2": "31cb9792b1f981498da21d6c3de567142c6b2a1e",
+    "/quran-pages/media/ibm-plex-sans-arabic-arabic-600-normal-LS4CIPTS.woff2": "9e5c019d8d6e9acb93f69e74d9ff5ab0fb49944f",
+    "/quran-pages/media/ibm-plex-sans-arabic-latin-400-normal-W2AG3YJR.woff2": "653bfd524aa4674232e85a15acd2e914a9f330bd",
+    "/quran-pages/media/ibm-plex-sans-arabic-latin-500-normal-5LQDONK7.woff2": "c55b4b1b5b5d57d2c291c6e23cb2370da51422dc",
+    "/quran-pages/media/ibm-plex-sans-arabic-latin-600-normal-XUUOQ5DA.woff2": "ee160f53bfe8585270adcde9c6864054675f4856",
+    "/quran-pages/styles-7545KREH.css": "b6a064908937ccfa54f56d0683b967a87af6fcc9"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?images\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*[^/]ngsw-bypass$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
